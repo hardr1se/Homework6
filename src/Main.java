@@ -68,7 +68,6 @@ public class Main {
         System.out.println("\nЗадание 9");
         int value = 29000;
         int total = 0;
-        int deposit; /// Извиняюсь, но немного не понял зачем нам лишняя переменная в виде вклада?
         for (int i = 1; i <= 12; i++){
             total = (total/100) * 112;
             total += value;
