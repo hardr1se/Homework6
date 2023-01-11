@@ -1,4 +1,4 @@
-public class Main {
+public class Homework6 {
     public static void main(String[] args) {
         task1();
         task2();
